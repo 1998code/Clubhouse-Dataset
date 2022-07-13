@@ -1,4 +1,4 @@
-# Clubhouse-Dataset
+# Clubhouse Dataset
 
 Total items | Features
 ----------- | --------
